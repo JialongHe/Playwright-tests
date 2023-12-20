@@ -4,7 +4,7 @@ This project is a repository for E2E testing using Playwright.
 
 # Playwright
 
-This part will introduce some Playwright operations. Official documents are ![here](https://playwright.dev/docs/intro).
+This part will introduce some Playwright operations. Official documents are [here](https://playwright.dev/docs/intro).
 
 
 # SUT
